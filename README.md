@@ -1,2 +1,2 @@
 # sanbertrain
-This is for sanbertrain
+This is for sanbertrain only
